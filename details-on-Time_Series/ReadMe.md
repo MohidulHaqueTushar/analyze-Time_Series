@@ -27,6 +27,7 @@ Determining the usefulness of a model depends on its alignment with specific obj
 **Generating Synthetic Time Series:**
 It involves combining fundamental building blocks to create diverse examples. This allows for creativity in mixing and matching components or adding them together to construct time series of varying complexity.
 
+**White Noise:** A white noise process is an extreme case of a stochastic process that generates a time series. It consists of a sequence of random numbers with zero mean and a constant standard deviation, representing a common assumption for noise in time series analysis.
 
 
 
