@@ -1,4 +1,4 @@
-# Time Series: Set of observations taken sequentially in time
+# Time Series: Set of observations taken sequentially over time
 
 ## Types of time series
 
